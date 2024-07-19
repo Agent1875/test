@@ -1,0 +1,13 @@
+Hi, this is Yosef.
+
+1. The index page uses the CSS and JavaScript file that isn't in the folder.
+2. The other pages are mainly served by the CSS and JavaScript files that are inside the folder.
+
+3. The photos for the index page are mostly located in the "images" file.
+
+4.The photos for the index page are mostly located in the "img/app" file.
+
+5. In order to avoid latency, you must store the picture in JavaScript and update the photographs in the CSS (@keyframes slide animation) before making any changes to the slide images. Because JavaScript loads the image.
+
+6. To receive customer orders, you need to establish a proper link or integration with a backend system for "Send Message" button located in the index.html page.
+
